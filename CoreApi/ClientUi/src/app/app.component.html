@@ -1,0 +1,20 @@
+<h1>Application says what?</h1>
+<ul>
+   <!-- <li *ngFor="let value of apiValues">{{value}}</li> -->
+</ul>
+<table>
+    <tr>
+        <td>EmpId</td>
+        <td>FirstName</td>
+        <td>LastName</td>
+        <td>MiddleName</td>
+        <td>EmailPromotion</td>
+    </tr>
+    <tr *ngFor="let value of apiValues">
+        <td>{{value.empId}}</td>
+        <td>{{value.firstName}}</td>
+        <td>{{value.lastName}}</td>
+        <td>{{value.middleName}}</td>
+        <td>{{value.emailPromotion}}</td>
+    </tr>
+</table>

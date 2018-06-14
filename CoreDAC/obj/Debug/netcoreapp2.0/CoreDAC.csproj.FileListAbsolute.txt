@@ -1,0 +1,9 @@
+D:\2018\WebApp1\CoreDAC\bin\Debug\netcoreapp2.0\CoreDAC.deps.json
+D:\2018\WebApp1\CoreDAC\bin\Debug\netcoreapp2.0\CoreDAC.dll
+D:\2018\WebApp1\CoreDAC\bin\Debug\netcoreapp2.0\CoreDAC.pdb
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.csproj.CoreCompileInputs.cache
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.AssemblyInfoInputs.cache
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.AssemblyInfo.cs
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.dll
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.pdb
+D:\2018\WebApp1\CoreDAC\obj\Debug\netcoreapp2.0\CoreDAC.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreApi.deps.json
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreApi.runtimeconfig.json
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreApi.runtimeconfig.dev.json
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreApi.dll
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreApi.pdb
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreDAC.dll
+D:\2018\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\CoreDAC.pdb
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.csprojAssemblyReference.cache
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.csproj.CoreCompileInputs.cache
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.AssemblyInfoInputs.cache
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.AssemblyInfo.cs
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.csproj.CopyComplete
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.dll
+D:\2018\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\CoreApi.pdb
