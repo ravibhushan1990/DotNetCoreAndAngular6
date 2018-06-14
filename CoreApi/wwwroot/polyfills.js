@@ -5473,7 +5473,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\2018\WebApp1\WebApp1\ClientUi\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! D:\2018\For Git Hub Repo\DotNetCoreAndAngular6\DotNetCoreAndAngular6\CoreApi\ClientUi\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

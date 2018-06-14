@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\2018\WebApp1\WebApp1\ClientUi\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\2018\For Git Hub Repo\DotNetCoreAndAngular6\DotNetCoreAndAngular6\CoreApi\ClientUi\src\styles.css */"./src/styles.css");
 
 
 /***/ })

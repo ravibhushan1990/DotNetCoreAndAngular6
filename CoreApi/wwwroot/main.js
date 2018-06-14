@@ -205,7 +205,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\2018\WebApp1\WebApp1\ClientUi\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\2018\For Git Hub Repo\DotNetCoreAndAngular6\DotNetCoreAndAngular6\CoreApi\ClientUi\src\main.ts */"./src/main.ts");
 
 
 /***/ })
